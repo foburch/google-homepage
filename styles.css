@@ -18,7 +18,7 @@ form {
 
 .search {
     border-radius: 25px;
-    text-align: left;
+    padding-left:30px;
     margin-top: 25px;
     width: 575px;
     height: 42.5px;
@@ -26,13 +26,17 @@ form {
      background-image:url("https://www.seekclipart.com/clipng/middle/70-709132_search-magnifying-glass-icon-png-grey-clipart.png"), url("https://icon-library.net/images/android-mic-icon/android-mic-icon-8.jpg");
      background-position: 2% 50%, 98% 50%;
      background-repeat: no-repeat;
-     background-size: 15px, 25px;     
+     background-size: 15px, 25px; 
+      
 }
 
-.search:hover {
+.search:hover {  
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }
 
+.search:focus {
+    outline: none; 
+}
 .submit {
     border-radius: 5px;
     margin: 30px 6px 8px 6px;
