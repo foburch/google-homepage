@@ -2,6 +2,8 @@
 body {
     font-family: arial, sans-serif;
     background: #fff;
+    margin: 0;
+    height: 100%;
 }
 .googlelogo {
     display: block;
@@ -64,7 +66,7 @@ a {
     font-size: 13px;
     color: #373936;
     font-family: Arial, sans-serif;
-    margin: auto 15px auto auto;
+    margin: auto 18px auto auto;
 }
 
 a:hover {
@@ -76,3 +78,19 @@ a:hover {
     bottom: 4px;
 }
 
+footer {
+    position: absolute;
+    bottom:0;
+    width: 100%;
+    background-color: #F2F2F2;
+    color: #5F6368;
+    height: 2.5em;
+}
+
+.footer-left {
+
+}
+
+.foot-right {
+    float: right;
+}
