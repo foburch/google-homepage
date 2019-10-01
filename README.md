@@ -7,7 +7,7 @@ This seemed easy at first, but I quickly learned how finicky CSS and the box mod
 
 I also ended up downloading a color picker extension for chrome, which turned out to be very helpful in getting the styling as close as I could to Googles. 
 
-What I struggled the most with, was how difficult it can be to get elements EXACTLY where they need to be, and how every action you take effects other elements. 
+What I struggled the most with, was how difficult it can be to get elements EXACTLY where they need to be, and how every action you take affects other elements. 
 
 I had a lot of fun with this project however, and look forward to working with CSS more.
 
